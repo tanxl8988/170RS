@@ -1,0 +1,122 @@
+/*
+  Localizable.strings
+  万能AIT
+
+  Created by Mac on 17/3/21.
+  Copyright © 2017年 APK. All rights reserved.
+*/
+"摄像机" = "カメラ";
+"本地" = "内部データ";
+"DVR" = "ドライブレコーダー";
+"删除%d个文件？" = "ファイルを削除しますか？";
+"%d个文件删除失败！" = "%dつのファイルを削除することに失敗";
+"取消" = "キャンセル";
+"确定" = "はい";
+"相册" = "アルバム";
+"设置" = "設置";
+"wifi设置" = "Wifiを設定します";
+"校准时间" = "校準時間";
+"格式化TF卡" = "SDカードフォーマット";
+"录音设置" = "録音設定";
+"录制时长" = "録画時間";
+"碰撞灵敏度" = "衝突敏度";
+"恢复出厂设置"="工場出荷に戻す";
+"恢复出厂设置详情"="工場出荷に戻す？
+工場出荷状態に戻します。よろしいですか？（はい/いいえ）";
+
+"曝光调整" = "露光調整";
+"自动关屏" = "自動消しスクリーン";
+"戳记" = "戳記";
+//"日期格式" = "Date Format" ;
+//"移动侦测" = "Motion Detection";
+"15秒" = "15sec";
+//"日期+型号" = "Date+Logo";
+//"日期" = "Date";
+"无" = "OFF";
+"年月日" = "YYYY MM DD";
+"月日年" = "MM DD YYYY";
+"日月年" = "DD MM YYYY";
+
+"10秒" = "10秒";
+"1分钟" = "1分";
+"3分钟" = "3分";
+"5分钟" = "5分";
+"关闭" = "閉じる";
+"开启" = "開く";
+"低" = "低";
+"中" = "中";
+"高" = "高";
+"共有%d个文件" = "合計%dつのファイルがあります";
+"未连接DVR" = "未接続";
+"视频"="ビデオ";
+"事件"="イベント";
+"泊车"="駐車監視";
+"照片"="写真";
+"选择" = "Select";
+"全选" = "All";
+"未选择文件" = "書類を選択しませんでした";
+"Wi-Fi名称必须为1-27个非空字符。" = "11文字以下の半角英数字以下でSSIDを入力してください：";
+"Wi-Fi密码必须为8-32个非空字符。" = "8文字の半角英数字で入力してください：";
+"更新" = "更新";
+"修改成功！" = "設定完了しました";
+"修改失败！" = "設定失敗しました";
+"摄像机时间将会校准为：" = "カメラの時間は校正します:";
+"校准时间失败！" = "校正時間を失敗する";
+"校准时间成功！" = "校正時間を成功する";
+"格式化TF卡失败！" = "失敗しました";
+"格式化TF卡成功！" = "SDカードフォーマットしました";
+"恢复出厂设置失败！" = "失敗しました。";
+"恢复出厂设置成功！" = "ドライブレコーダーを再接続してください。";
+"设置失败！" = "設定失敗しました";
+"DVR将会重启Wi-Fi" = "次回起動後、SSIDとパスワードは出荷状態に戻ります。";
+"下载" = "ダウンロード";
+"请允许访问iPhone的\"照片\"，否则无法使用下载功能！" = "記録画像データは\"写真\"にダウンロードされます。
+\"写真\"にアクセスしますか？";
+
+//new
+"设备拍照成功！" = "写真撮影に成功した";
+"设备拍照失败！" = "写真撮影に失敗しました";
+"帮助" = "ヘルプ";
+"关于" = "について";
+"Road Cam" = "Road Cam";
+"未连接摄像机提示信息" = "ネットワークが繋がってません。モバイルデータ通信をオンにするかWi-Fiを使用してください";
+"保存失败！" = "保存失敗";
+"问题1" = "1.How to do when DVR system halted?";
+"答案1" = "(1)Press Reset to restart\n(2)Whether the SD card damage or not, or card class corresponds to class 10. ";
+"问题2" = "2.How to do when dvr can't power on?";
+"答案2" = "(1)Check power supply connection ok or not\n(2)Check whether insert card or not\n(3)Check whether power button press down or not\n(4)Press reset";
+"问题3" = "3.Video playback on the computer will show stop or frame skip? ";
+"答案3" = "(1)Format TF card and repeat recording.\n(2)Exchange TF Card with TF Card class 10";
+"问题4" = "4.Video recording not clear or full fuzzy ?";
+"答案4" = "Rub the len and make it clean";
+"问题5" = "5.Video playback on the computer will get stuck or not continue?";
+"答案5" = "(1)First suggest to change the player to play\n(2)change another high speed TF Card";
+"问题6" = "6.DVR recording video not continue, Just record for few seconds and stop, Then start record again?";
+"答案6" = "(1)Check whether the motion detection function is opened, please switch it off and try again.\n(2) Check and format TF card, or exchange it with TF card class 10";
+"问题7" = "7.Why wifi can't connect with?";
+"答案7" = "(1) Check mobile phone settings.\n(2)Check if DVR WiFi is on?\n(3)If all from above is done, please reset the device";
+
+"加载视频失败！" = "放送失敗!";
+"该视频不可播放！" = "このビデオは再生できない";
+
+//雄风
+"翻转" = "Flip to 180";
+"视频模式" = "Video Mode";
+"型号" = "Logo";
+"WiFi密码"="パスワード";
+"版本号" = "アプリバージョン";
+"软件信息"="バージョン";
+"未连接"="未接続";
+"拍摄事件失败"="イベント録画失敗しました";
+"开放源代码许可" = "情報";
+"说明书"="使い方";
+"正在录制事件..." = "イベント録画中…";
+"请输入8位Wi-Fi密码："="8文字の半角英数字で入力してください:";
+"请输入1-11位Wi-Fi名称："="11文字の半角英数字以下でSSIDを入力してください:";
+"WiFi名称"="SSID";
+"视频格式"="画質";
+"已下载" = "ダウンロードが完了しました";
+"不同意" = "同意しない";
+"同意" = "同意する";
+
+"隐私政策" = "プライバシー協定";
